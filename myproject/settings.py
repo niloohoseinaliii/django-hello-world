@@ -25,7 +25,9 @@ SECRET_KEY = 'cjh%*(u%gk_o2&2k%6+6$lojm7+!f$gg6q1@fn=9c3aq!_scs*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "hello-niloofar.darkube.app"
+]
 
 
 # Application definition
